@@ -1,5 +1,5 @@
-hhhjjlnum=$1
-fact=1
+john
+
 while [ $num -gt 1 ]
 do
         fact=`expr $fact \* $num'
